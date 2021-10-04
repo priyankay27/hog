@@ -90,7 +90,7 @@ export default function Class({ navigation }) {
               flexWrap: "wrap",
             }}
           >
-            <Text>Class 2</Text>
+            <Text>Class 2 Na na na</Text>
           </TouchableOpacity>
           <TouchableOpacity
             style={{
